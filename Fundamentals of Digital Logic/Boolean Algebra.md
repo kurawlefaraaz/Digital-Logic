@@ -31,9 +31,9 @@ Some common boolean operator are:
 	: This operation tells "All variable should be high to get output as high else output is low".
 	 - Example: `a=1`,`b=1`; `y=a+b` therfore `y=0`
 
- - Not/~/ ̅
+ - NOT/
    :	This operation tells "atleast one variable should be high to get output as high else output is low".
 	 - Example: `a=0`,`b=1`; `y=a+b` therfore `y=1`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODg3NDcwOSwtMTMzNzc5NzQxMF19
+eyJoaXN0b3J5IjpbMjEyNjk3NjAyMSwtMTMzNzc5NzQxMF19
 -->
