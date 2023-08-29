@@ -32,9 +32,8 @@ Some common boolean operator are:
 	 - Example: `a=1`,`b=1`; `y=a+b` therfore `y=0`
 
  - NOT/~/ ̅
-   :	This operation .
-	 - Example: `a=0`,`b=1`; `y=a+b` therfore `y=1`
+   :	This operation inverts the input.
+	 - Example: `a=0`; `y=~a` therfore `y=1`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA5NDE0MTUsLTEzMzc3OTc0MTBdfQ
-==
+eyJoaXN0b3J5IjpbODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
 -->
