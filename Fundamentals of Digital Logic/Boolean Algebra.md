@@ -19,8 +19,10 @@ Boolean Constants:
 
 Boolean Variable:
 : A variable acts as a placeholder for values which may change in a given time. Boolean Variable can only store either of the value 0 or 1. <br>
-example:  `A=0`, `B=1`; putting that values in expression `A+B` would result in 1 by applying OR logic.
+example:  
+`A=0`, `B=1`; putting that values in expression `A+B` would result in 1 by applying OR logic.
 
+Some co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NzQzMTM4LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbODI5NTE3ODgyLC0xMzM3Nzk3NDEwXX0=
 -->
