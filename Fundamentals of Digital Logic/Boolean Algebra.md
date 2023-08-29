@@ -22,7 +22,8 @@ Boolean Variable:
 example:  
 `A=0`, `B=1`; putting that values in expression `A+B` would result in 1 by applying OR logic.
 
-Some co
+Some common boolean operator are:
+ - OR/+: This operation tells "
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NTE3ODgyLC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbMTY5NTYzNjk4NCwtMTMzNzc5NzQxMF19
 -->
