@@ -24,7 +24,11 @@ example:
 
 Some common boolean operator are:
  - OR/+: This operation tells "atleast one variable should be high to get output as high else output is low".
-	 - sadsadas
+	 - Example: `a=0`,`b=1`; `y=a+b` therfore `y=1` 
+
+ - AND/.: This operation tells "All variable should be high to get output as high else output is low".
+	 - Example: `a=0`,`b=1`; `y=a+b` therfore `y=1`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMDkwMTQ1LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbLTEyNjI3Mzg3ODksLTEzMzc3OTc0MTBdfQ
+==
 -->
