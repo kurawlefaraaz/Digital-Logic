@@ -8,7 +8,7 @@
 
 ## Basic Operations
 Boolean Expression:
-: Boolean Expression is a combination of Boolean operators, constants and variables.
+: Boolean Expression is a combination of Boolean operators, constants and variables. <br>
 example: `A + B`
 
 Boolean Operator:
@@ -18,8 +18,9 @@ Boolean Constants:
 : Boolean Constants are values which would not change. Only two constants are present in Boolean Algebra that are 0 and 1.
 
 Boolean Variable:
-: 
+: A variable acts as a placeholder for values which may change in a given time. Boolean Variable can only store either of the value 0 or 1. <br>
+example:  `A=0`, `B=1`; putting that values in expression `A+B` would result in 1 by applying OR logic.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc3OTc0MTBdfQ==
+eyJoaXN0b3J5IjpbNzU3NzQzMTM4LC0xMzM3Nzk3NDEwXX0=
 -->
