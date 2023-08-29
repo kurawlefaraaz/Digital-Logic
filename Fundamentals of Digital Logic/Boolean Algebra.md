@@ -7,7 +7,9 @@
  - It is mathematics of digital logic. 
 
 ## Basic Operations
-: Boolean Expression is a combination of operators, constants and variables.
+: Boolean Expression is a combination of Boolean operators, constants and variables.
+: Boolean Operators are opearators which indicates use of some logical operation such as AND, OR, NOT ect.
+: Boolean Constants are 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTA5ODQ4OF19
+eyJoaXN0b3J5IjpbLTIwNDM0MjE1NTFdfQ==
 -->
