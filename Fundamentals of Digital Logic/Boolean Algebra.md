@@ -23,14 +23,16 @@ example:
 `A=0`, `B=1`; putting that values in expression `A+B` would result in 1 by applying OR logic.
 
 Some common boolean operator are:
- - OR/+: This operation tells "atleast one variable should be high to get output as high else output is low".
+ - OR/+
+	  This operation tells "atleast one variable should be high to get output as high else output is low".
 	 - Example: `a=0`,`b=1`; `y=a+b` therfore `y=1` 
 
- - AND/.: This operation tells "All variable should be high to get output as high else output is low".
+ - AND/.
+	: This operation tells "All variable should be high to get output as high else output is low".
 	 - Example: `a=1`,`b=1`; `y=a+b` therfore `y=0`
 
- - Not/~/<span style="text-decoration> </span>: This operation tells "atleast one variable should be high to get output as high else output is low".
+ - Not/~/: This operation tells "atleast one variable should be high to get output as high else output is low".
 	 - Example: `a=0`,`b=1`; `y=a+b` therfore `y=1`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTM3MTEyMSwtMTMzNzc5NzQxMF19
+eyJoaXN0b3J5IjpbMzIxODU2MzYsLTEzMzc3OTc0MTBdfQ==
 -->
