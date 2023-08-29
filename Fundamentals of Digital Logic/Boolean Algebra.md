@@ -23,7 +23,8 @@ example:
 `A=0`, `B=1`; putting that values in expression `A+B` would result in 1 by applying OR logic.
 
 Some common boolean operator are:
- - OR/+: This operation tells "
+ - OR/+: This operation tells "atleast one variable should be high to get output as high else output is low".
+	 - sadsadas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTYzNjk4NCwtMTMzNzc5NzQxMF19
+eyJoaXN0b3J5IjpbOTAzMDkwMTQ1LC0xMzM3Nzk3NDEwXX0=
 -->
