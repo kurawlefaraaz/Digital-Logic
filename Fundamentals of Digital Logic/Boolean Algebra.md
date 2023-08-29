@@ -6,7 +6,8 @@
  - Also known as Binary Algebra or Logical Algebra.
  - It is mathematics of digital logic. 
 
-## V
+## Basic Operations
+: Boolean Expression is a combination of operators, constants and variables.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjE0OTIzM119
+eyJoaXN0b3J5IjpbMTE0NTA5ODQ4OF19
 -->
