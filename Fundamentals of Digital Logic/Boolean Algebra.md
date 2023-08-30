@@ -57,9 +57,8 @@ Laws:
 	</tr>
 	<tr>
 		<td>Involution Law</td>
-		<td colspan="2> x + x = x>
-		
-		<td>Operation with the same variable.</td>
+		<td colspan=2><center> x + x = x</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
@@ -76,7 +75,7 @@ Laws:
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI3NDA5NzIsMTA1MzI1NDY4MCwtMT
-Q0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3
-OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbLTY2Mzc0NTAyOCwxMDUzMjU0NjgwLC0xND
+Q1NDM4OTAwLC04Nzc2NzAyNjgsLTE5Mzk5Nzk5ODMsMTEzNzc5
+MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
 -->
