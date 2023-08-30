@@ -57,8 +57,8 @@ Laws:
 	</tr>
 	<tr>
 		<td>Involution Law</td>
-		<td colspan=2><center> x + x = x</td>
-		<td></td>
+		<td colspan=2><center> (x')'</center></td>
+		<td>Complement of complement is the number itself.</td>
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
@@ -70,12 +70,13 @@ Laws:
 		<td>Dominant Law</td>
 		<td> x + 1 = 1</td>
 		<td>x . 0 = 0</td>
+		<td>
 	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzc0NTAyOCwxMDUzMjU0NjgwLC0xND
+eyJoaXN0b3J5IjpbMTI1MjA2ODM4MSwxMDUzMjU0NjgwLC0xND
 Q1NDM4OTAwLC04Nzc2NzAyNjgsLTE5Mzk5Nzk5ODMsMTEzNzc5
 MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
 -->
