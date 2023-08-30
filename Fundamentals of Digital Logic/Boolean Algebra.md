@@ -53,14 +53,19 @@ Laws:
 		<td>x  .  x' = 0</td>
 	</tr>
 	<tr>
-		<td>Identity</td>
-		<td> x + 0 =x
-		<td>x . 1 = x</td>
+		<td>Idempotent Law</td>
+		<td> x + x = x
+		<td>x . x = x</td>
 	</tr>
+	<tr>
+		<td>Idempotent Law</td>
+		<td> x + x = x
+		<td>x . x = x</td>
+	</tr> 
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Nzk2NzUzMywtMTkzOTk3OTk4MywxMT
+eyJoaXN0b3J5IjpbLTg3NzY3MDI2OCwtMTkzOTk3OTk4MywxMT
 M3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF19
 -->
