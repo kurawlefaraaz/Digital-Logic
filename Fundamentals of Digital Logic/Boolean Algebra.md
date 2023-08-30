@@ -97,14 +97,15 @@ Laws:
 	</tr>
 	<tr>
 		<td>Absorption Law</td>
-		<td> x + (y + z) = (x + y) + z</td>
+		<td>x + (x</td>
 		<td>x . (y . z) = (x . y) . z</td>
 		<td>Even after grouping some variables the output is same.</td>
 	</tr>
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNzQ0OSwyNTY0NzI1MzUsMTA1MzI1ND
-Y4MCwtMTQ0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgz
-LDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbLTEwNjMxMjk5NDMsMjU2NDcyNTM1LDEwNT
+MyNTQ2ODAsLTE0NDU0Mzg5MDAsLTg3NzY3MDI2OCwtMTkzOTk3
+OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF
+19
 -->
