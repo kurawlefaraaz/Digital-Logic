@@ -82,12 +82,12 @@ Laws:
 		<td>Associative Law</td>
 		<td> x + (y + z) = (x + y) + z</td>
 		<td>x . (y . z) = (x . y) . z</td>
-		<td>Result would be same as arrangement order of values is not necessary to be same.</td>
+		<td>Even after grouping some variables the output is same.</td>
 	</tr>
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYwMjE4OTMsMTA1MzI1NDY4MCwtMT
-Q0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3
-OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbMjU2NDcyNTM1LDEwNTMyNTQ2ODAsLTE0ND
+U0Mzg5MDAsLTg3NzY3MDI2OCwtMTkzOTk3OTk4MywxMTM3Nzkw
+MjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF19
 -->
