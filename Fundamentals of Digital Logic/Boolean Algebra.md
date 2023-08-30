@@ -85,9 +85,11 @@ Laws:
 		<td>Even after grouping some variables the output is same.</td>
 	</tr>
 	
+	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2NDcyNTM1LDEwNTMyNTQ2ODAsLTE0ND
-U0Mzg5MDAsLTg3NzY3MDI2OCwtMTkzOTk3OTk4MywxMTM3Nzkw
-MjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF19
+eyJoaXN0b3J5IjpbMTU0MzM5ODYzNywyNTY0NzI1MzUsMTA1Mz
+I1NDY4MCwtMTQ0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5
+OTgzLDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX
+0=
 -->
