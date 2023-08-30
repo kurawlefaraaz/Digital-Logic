@@ -78,11 +78,16 @@ Laws:
 		<td>x . y = y . x</td>
 		<td>Result would be same as arrangement order of values is not necessary to be same.</td>
 	</tr>
-	
+	<tr>
+		<td>Associative Law</td>
+		<td> x + (y + z) = (x + y) + z</td>
+		<td>x . (y . z) = (x . y) . z</td>
+		<td>Result would be same as arrangement order of values is not necessary to be same.</td>
+	</tr>
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTg4NTI0MSwxMDUzMjU0NjgwLC0xND
-Q1NDM4OTAwLC04Nzc2NzAyNjgsLTE5Mzk5Nzk5ODMsMTEzNzc5
-MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMzYwMjE4OTMsMTA1MzI1NDY4MCwtMT
+Q0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3
+OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
 -->
