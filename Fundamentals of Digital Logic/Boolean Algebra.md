@@ -57,15 +57,15 @@ Laws:
 	</tr>
 	<tr>
 		<td>Involution Law</td>
-		<td> x + x = x
-		<td>x . x = x</td>
+		<td rowspan="2> x + x = x
+		
 		<td>Operation with the same variable.</td>
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
 		<td> x + x = x</td>
 		<td>x . x = x</td>
-		<td>Operation with constant or the value of constant is result.</td>
+		<td>Operation with constant or the value of constant where is result.</td>
 	</tr>
 	<tr>
 		<td>Dominant Law</td>
@@ -76,7 +76,7 @@ Laws:
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU0Mzg5MDAsLTg3NzY3MDI2OCwtMT
-kzOTk3OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5
-NzQxMF19
+eyJoaXN0b3J5IjpbMTA1MzI1NDY4MCwtMTQ0NTQzODkwMCwtOD
+c3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3OTAyNDEsODUwMzUx
+NjA0LC0xMzM3Nzk3NDEwXX0=
 -->
