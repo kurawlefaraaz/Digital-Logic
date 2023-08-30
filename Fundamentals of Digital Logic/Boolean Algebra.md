@@ -43,12 +43,19 @@ Laws:
 	<th>Addition</th>
 	<th>Multiplication </th>
 	<tr>
+		<td>Identity</td>
 		<td> x + 0 =x
+		<td>x . 1 = x</td>
+	</tr>
+	<tr>
+		<td>Complement Law</td>
+		<td> x + 0 =x
+		<td>x . 1 = x</td>
 	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjU4Nzc3MSwtMTkzOTk3OTk4MywxMT
+eyJoaXN0b3J5IjpbLTYwMDY4NDM4MiwtMTkzOTk3OTk4MywxMT
 M3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF19
 -->
