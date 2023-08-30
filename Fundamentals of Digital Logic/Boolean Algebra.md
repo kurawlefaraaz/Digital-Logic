@@ -61,11 +61,17 @@ Laws:
 		<td>Idempotent Law</td>
 		<td> x + x = x
 		<td>x . x = x</td>
-	</tr> 
+	</tr>
+	<tr>
+		<td>Idempotent Law</td>
+		<td> x + x = x
+		<td>x . x = x</td>
+	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzY3MDI2OCwtMTkzOTk3OTk4MywxMT
-M3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF19
+eyJoaXN0b3J5IjpbLTEwMzc4NzEzMzUsLTg3NzY3MDI2OCwtMT
+kzOTk3OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5
+NzQxMF19
 -->
