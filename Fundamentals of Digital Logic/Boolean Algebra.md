@@ -99,13 +99,13 @@ Laws:
 		<td>Absorption Law</td>
 		<td>x + (x . y) = x</td>
 		<td>x . (y + z) = x</td>
-		<td>operation such that variable with in the expression is the result. By taking 'x' common, we get `x+ (1</td>
+		<td>operation such that variable with in the expression is the result. By taking 'x' common, we get `x + (1 . y)` and by dominant law `1 . y = 1`, hence we say 'x</td>
 	</tr>
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxNjMwNjgsMjU2NDcyNTM1LDEwNT
-MyNTQ2ODAsLTE0NDU0Mzg5MDAsLTg3NzY3MDI2OCwtMTkzOTk3
-OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF
-19
+eyJoaXN0b3J5IjpbLTcwMTQ2Nzk2NSwyNTY0NzI1MzUsMTA1Mz
+I1NDY4MCwtMTQ0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5
+OTgzLDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX
+0=
 -->
