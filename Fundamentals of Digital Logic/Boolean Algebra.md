@@ -53,18 +53,19 @@ Laws:
 		<td>Complement Law</td>
 		<td> x + x' = 1
 		<td>x  .  x' = 0</td>
-		<td>Operation with the complement of variable</td>
+		<td>Operation with the complement of variable. </td>
 	</tr>
 	<tr>
-		<td>Idempotent Law</td>
+		<td>Involution Law</td>
 		<td> x + x = x
 		<td>x . x = x</td>
-		<td>Operation with the complement of variable</td>
+		<td>Operation with the same variable.</td>
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
 		<td> x + x = x</td>
 		<td>x . x = x</td>
+		<td>Operation with constant or the value of constant is result.</td>
 	</tr>
 	<tr>
 		<td>Dominant Law</td>
@@ -75,7 +76,7 @@ Laws:
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDYwMjUxNCwtODc3NjcwMjY4LC0xOT
-M5OTc5OTgzLDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3
-NDEwXX0=
+eyJoaXN0b3J5IjpbLTE0NDU0Mzg5MDAsLTg3NzY3MDI2OCwtMT
+kzOTk3OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5
+NzQxMF19
 -->
