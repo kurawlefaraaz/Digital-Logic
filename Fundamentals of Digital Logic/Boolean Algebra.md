@@ -47,17 +47,19 @@ Laws:
 		<td>Identity Law</td>
 		<td> x + 0 = x
 		<td>x . 1 = x</td>
-		<td>Oppe
+		<td>Operation such that the value of variable is preserved.</td>
 	</tr>
 	<tr>
 		<td>Complement Law</td>
 		<td> x + x' = 1
 		<td>x  .  x' = 0</td>
+		<td>Operation with the complement of variable</td>
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
 		<td> x + x = x
 		<td>x . x = x</td>
+		<td>Operation with the complement of variable</td>
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
@@ -73,7 +75,7 @@ Laws:
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODEyNzg5OSwtODc3NjcwMjY4LC0xOT
+eyJoaXN0b3J5IjpbLTUwMDYwMjUxNCwtODc3NjcwMjY4LC0xOT
 M5OTc5OTgzLDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3
 NDEwXX0=
 -->
