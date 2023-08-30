@@ -38,8 +38,9 @@ Some common boolean operator are:
 ## Boolean Algebra
 Laws:
 Law/Theorem | Addition | Multiplication 
------------
+
+<table></table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzc5MDI0MSw4NTAzNTE2MDQsLTEzMz
-c3OTc0MTBdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzk5Nzk5ODMsMTEzNzc5MDI0MSw4NT
+AzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
 -->
