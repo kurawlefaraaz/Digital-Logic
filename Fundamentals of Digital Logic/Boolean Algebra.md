@@ -40,12 +40,15 @@ Laws:
 
 <table>
 	<th>Law/Theorem</th>
-	<t
 	<th>Addition</th>
 	<th>Multiplication </th>
+	<tr>
+		<td> x + 0 =x
+	</tr>
+	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ3NzE5MDAsLTE5Mzk5Nzk5ODMsMT
-EzNzc5MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
+eyJoaXN0b3J5IjpbMTUzNjU4Nzc3MSwtMTkzOTk3OTk4MywxMT
+M3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF19
 -->
