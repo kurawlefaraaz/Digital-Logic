@@ -88,13 +88,12 @@ Laws:
 		<td>Distributive Law</td>
 		<td> x . (y + z) = (x . y) + (x . z)</td>
 		<td>x + (y . z) = (x + y) . (x + z)</td>
-		
 	</tr>
 	<tr>
 		<td>Demorgan's Law</td>
 		<td>(x + y)' = x' . y'</td>
 		<td>(x . y)' = x' + y'</td>
-		<td>
+		<td>Inverse is applied to all elements of expression. Therefore even operators `+` is inverted to `.` and vice versa.
 	</tr>
 	<tr>
 		<td>Absorption Law</td>
@@ -105,8 +104,7 @@ Laws:
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc4ODc3MDUsMjU2NDcyNTM1LDEwNT
-MyNTQ2ODAsLTE0NDU0Mzg5MDAsLTg3NzY3MDI2OCwtMTkzOTk3
-OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF
-19
+eyJoaXN0b3J5IjpbMzIxNzQ0OSwyNTY0NzI1MzUsMTA1MzI1ND
+Y4MCwtMTQ0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgz
+LDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
 -->
