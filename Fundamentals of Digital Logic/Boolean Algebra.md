@@ -64,19 +64,19 @@ Laws:
 		<td>Idempotent Law</td>
 		<td> x + x = x</td>
 		<td>x . x = x</td>
-		<td>Operation with constant or the value of constant where is result.</td>
+		<td>Operation with the variable or number it self.</td>
 	</tr>
 	<tr>
 		<td>Dominant Law</td>
 		<td> x + 1 = 1</td>
 		<td>x . 0 = 0</td>
-		<td>
+		<td>Operation of variable with constant where is result</td>
 	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjA2ODM4MSwxMDUzMjU0NjgwLC0xND
+eyJoaXN0b3J5IjpbLTg1NjE1MjQxMiwxMDUzMjU0NjgwLC0xND
 Q1NDM4OTAwLC04Nzc2NzAyNjgsLTE5Mzk5Nzk5ODMsMTEzNzc5
 MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
 -->
