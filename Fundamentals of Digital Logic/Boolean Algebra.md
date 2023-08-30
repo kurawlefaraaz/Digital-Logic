@@ -37,10 +37,15 @@ Some common boolean operator are:
 
 ## Boolean Algebra
 Laws:
-Law/Theorem | Addition | Multiplication 
 
-<table></table>
+<table>
+	<th>Law/Theorem</th>
+	<t
+	<th>Addition</th>
+	<th>Multiplication </th>
+	
+</table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk5Nzk5ODMsMTEzNzc5MDI0MSw4NT
-AzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQ3NzE5MDAsLTE5Mzk5Nzk5ODMsMT
+EzNzc5MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
 -->
