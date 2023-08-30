@@ -33,7 +33,13 @@ Some common boolean operator are:
 
  - NOT/~/ ̅
    :	This operation inverts the input.
-	 - Example: `a=0`; `y=~a` therfore `y=1`
+	 - Example: `a=0`; `y=~a` therfore `y=1
+
+## Boolean Algebra
+Laws:
+Law/Theorem | Addition | Multiplication 
+-----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbMTEzNzc5MDI0MSw4NTAzNTE2MDQsLTEzMz
+c3OTc0MTBdfQ==
 -->
