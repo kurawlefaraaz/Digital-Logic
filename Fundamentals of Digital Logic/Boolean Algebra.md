@@ -42,10 +42,12 @@ Laws:
 	<th>Law/Theorem</th>
 	<th>Addition (OR)</th>
 	<th>Multiplication (AND) </th>
+	<th>Note</th>
 	<tr>
 		<td>Identity Law</td>
 		<td> x + 0 = x
 		<td>x . 1 = x</td>
+		<td>Oppe
 	</tr>
 	<tr>
 		<td>Complement Law</td>
@@ -59,19 +61,19 @@ Laws:
 	</tr>
 	<tr>
 		<td>Idempotent Law</td>
-		<td> x + x = x
+		<td> x + x = x</td>
 		<td>x . x = x</td>
 	</tr>
 	<tr>
-		<td>Idempotent Law</td>
-		<td> x + x = x
-		<td>x . x = x</td>
+		<td>Dominant Law</td>
+		<td> x + 1 = 1</td>
+		<td>x . 0 = 0</td>
 	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc4NzEzMzUsLTg3NzY3MDI2OCwtMT
-kzOTk3OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5
-NzQxMF19
+eyJoaXN0b3J5IjpbMTI4ODEyNzg5OSwtODc3NjcwMjY4LC0xOT
+M5OTc5OTgzLDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3
+NDEwXX0=
 -->
