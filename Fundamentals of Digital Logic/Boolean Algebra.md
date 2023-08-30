@@ -99,13 +99,13 @@ Laws:
 		<td>Absorption Law</td>
 		<td>x + (x . y) = x</td>
 		<td>x . (y + z) = x</td>
-		<td>Operation such that a</td>
+		<td>operation such that variable with in the expression is the result. By taking 'x' common, we get `x+ (1</td>
 	</tr>
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODk4NDc3OSwyNTY0NzI1MzUsMTA1Mz
-I1NDY4MCwtMTQ0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5
-OTgzLDExMzc3OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX
-0=
+eyJoaXN0b3J5IjpbLTE2ODgxNjMwNjgsMjU2NDcyNTM1LDEwNT
+MyNTQ2ODAsLTE0NDU0Mzg5MDAsLTg3NzY3MDI2OCwtMTkzOTk3
+OTk4MywxMTM3NzkwMjQxLDg1MDM1MTYwNCwtMTMzNzc5NzQxMF
+19
 -->
