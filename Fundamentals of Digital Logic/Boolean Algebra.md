@@ -76,13 +76,13 @@ Laws:
 		<td>Commutative Law</td>
 		<td> x + y = y + x</td>
 		<td>x . y = y . x</td>
-		<td>Arrangement order of values is .</td>
+		<td>Result would be same as arrangement order of values is not necessary to be same.</td>
 	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNDIyNTQsMTA1MzI1NDY4MCwtMTQ0NT
-QzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3OTAy
-NDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbLTkwMTg4NTI0MSwxMDUzMjU0NjgwLC0xND
+Q1NDM4OTAwLC04Nzc2NzAyNjgsLTE5Mzk5Nzk5ODMsMTEzNzc5
+MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ==
 -->
