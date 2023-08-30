@@ -87,14 +87,13 @@ Laws:
 	<tr>
 		<td>Distributive Law</td>
 		<td> x . (y + z) = (x . y) + (x . z)</td>
-		<td>x + (y . z) = (x . y) . z</td>
+		<td>x + (y . z) = (x + y) . (x + z)</td>
 		<td>Even after grouping some variables the output is same.</td>
 	</tr>
 	<tr>
 		<td>Demorgan's Law</td>
 		<td> x + (y + z) = (x + y) + z</td>
 		<td>x . (y . z) = (x . y) . z</td>
-		<td>Even after grouping some variables the output is same.</td>
 	</tr>
 	<tr>
 		<td>Absorption Law</td>
@@ -105,7 +104,7 @@ Laws:
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNjA4ODIwLDI1NjQ3MjUzNSwxMDUzMj
+eyJoaXN0b3J5IjpbMTYzNDc3MDYyLDI1NjQ3MjUzNSwxMDUzMj
 U0NjgwLC0xNDQ1NDM4OTAwLC04Nzc2NzAyNjgsLTE5Mzk5Nzk5
 ODMsMTEzNzc5MDI0MSw4NTAzNTE2MDQsLTEzMzc3OTc0MTBdfQ
 ==
