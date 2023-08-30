@@ -72,11 +72,17 @@ Laws:
 		<td>x . 0 = 0</td>
 		<td>Operation of variable with constant where is result is same constant.</td>
 	</tr>
+	<tr>
+		<td>Commutative Law</td>
+		<td> x + y = y + x</td>
+		<td>x . y = y . x</td>
+		<td>Arrangement order of values is .</td>
+	</tr>
 	
 	
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg3MjgwMDIsMTA1MzI1NDY4MCwtMT
-Q0NTQzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3
-OTAyNDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
+eyJoaXN0b3J5IjpbMjcxNDIyNTQsMTA1MzI1NDY4MCwtMTQ0NT
+QzODkwMCwtODc3NjcwMjY4LC0xOTM5OTc5OTgzLDExMzc3OTAy
+NDEsODUwMzUxNjA0LC0xMzM3Nzk3NDEwXX0=
 -->
